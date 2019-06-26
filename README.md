@@ -71,6 +71,8 @@ Almost all commands have three parts: `program flags anyArguments`
 
 [Introduction to the Mac OS X Command Line - Treehouse Blog](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
 
+Cheat sheet source: https://www.git-tower.com/blog/command-line-cheat-sheet/
+
 ![](resources/command-line-cheat-sheet-01.png)
 
 ![](resources/command-line-cheat-sheet-02.png)
