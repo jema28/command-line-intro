@@ -42,7 +42,7 @@ Almost all commands have three parts: `program flags anyArguments`
 20. `man <program>` to print manual / help guides
 21. `clear` to wipe the terminal
 
-[Key commands](resources/key_command.png)
+![](resources/key-commands.png)
 
 - `/` - The root directory or a separator when listing directories
 - `.` - The current directory (also `./`) or the same level
